@@ -1,4 +1,4 @@
-/*import {
+import {
   DataGrid,
   GridColDef,
   GridToolbar,
@@ -83,4 +83,4 @@ const DataTable = (props: Props) => {
   );
 };
 
-export default DataTable; */
+export default DataTable; 
